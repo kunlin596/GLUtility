@@ -1,3 +1,3 @@
 # GLUtility
 
-This is a experiment project which wraps raw OpenGL functions like handlong buffers and batch rendering something.
+This is a experiment project which wraps raw OpenGL functions like handling buffers, batch rendering, and etc.
